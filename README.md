@@ -11,7 +11,7 @@ Overview
 This challenge involves creating a social link profile card using HTML and CSS. The profile card displays an avatar, name, location, a brief bio, and links to various social media profiles.
 
 Links
-Solution URL: GitHub Repository
+Solution URL: [GitHub Repository](https://github.com/Aabankhan1/social-link-profile-card/upload/main)
 Live Site URL:[ Live Demo](https://66b4b096de61d5f13471ccd2--dynamic-beignet-87e44b.netlify.app/)
 My Process
 Built With
